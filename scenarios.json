@@ -1,0 +1,19 @@
+{
+  "Cafe": [
+    {"user": "I'd like a coffee, please.", "bot": "Sure! What size would you like?"},
+    {"user": "Can I have a latte?", "bot": "Of course! Would you like any sugar or milk?"},
+    {"user": "Do you have vegan options?", "bot": "Yes, we have almond and oat milk."}
+  ],
+  "Hospital": [
+    {"user": "I feel sick.", "bot": "I’m sorry to hear that. Can you describe your symptoms?"},
+    {"user": "I need a doctor.", "bot": "Sure, I can help you make an appointment."}
+  ],
+  "Airport": [
+    {"user": "Where is the check-in counter?", "bot": "It's on the right side of the entrance."},
+    {"user": "What time does my flight leave?", "bot": "You can check your boarding pass for the exact time."}
+  ],
+  "Small Talk": [
+    {"user": "How's the weather?", "bot": "It’s sunny and warm today. Perfect for a walk!"},
+    {"user": "What did you do today?", "bot": "I helped users practice English, and now I’m talking to you!"}
+  ]
+}
